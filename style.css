@@ -52,7 +52,7 @@ h1{
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
     /* margin-right: 50px; */
-    margin-left: 50px ;
+    /* margin-left: 80px ; */
     font-style: bold;
     border-radius: 20px;
     background-color: rgb(4, 37, 98);
@@ -60,6 +60,9 @@ h1{
     height: 3rem;
       
 
+}
+.win{
+    height: 3rem;
 }
 
 h6{
@@ -70,7 +73,9 @@ button:hover{
     background-color: white;
     cursor: pointer;
 }
-
+.ort{
+    text-align: center;
+}
 
 
 
